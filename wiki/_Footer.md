@@ -1,5 +1,0 @@
-Hermes Agent · MIT License · Built by [Nous Research](https://nousresearch.com)
-· [Repo](https://github.com/gavinlouuu-kpt/hermes-agent)
-· [Docs](https://hermes-agent.nousresearch.com/docs/)
-· [Discord](https://discord.gg/NousResearch)
-· [Skills Hub](https://agentskills.io)
